@@ -1,0 +1,105 @@
+/*================LOGIN DESIGN====================*/
+
+.asterisk{
+    color:red;
+    text-align: inherit;
+  }
+  
+  .login-input{
+    text-align: left;
+    width: 100%;
+    border-radius: 5px!important;
+    padding: 10px;
+    font-size:medium;
+    border: 1px solid #808080 ;
+    background-color: #f0f0f0;
+  }
+  
+  
+  .login-form{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    padding-top:13%;
+  }
+  
+  .login-label{
+    text-align: left;
+    margin-bottom: 10px;
+    font-size:larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .container{
+    background-color: #fff;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    height: 25em;
+    border-radius: 10px;
+    box-shadow: 0px 4px 9px 0px rgba(0,0,0,0.25);
+  }
+  
+  .container-server{
+    background-color: #fff;
+    margin-top: 2em;
+    margin-bottom: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+    height: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 9px 0px rgba(0,0,0,0.25);
+  }
+  
+  .container-login-btn{
+    top: 4em;
+    text-align: center;
+    margin-left: auto;
+    position: relative;
+    margin-right: auto;
+  }
+  
+  .login-btn{
+    font-weight: 900;
+    width: 90%;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .login{
+    padding:10px;
+    width: 80%;
+  }
+  
+  h2{
+    text-align: left;
+    background-color: #fff;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1.7em;
+    border-radius: 10px;
+    box-shadow: 0px 4px 9px 0px rgba(0,0,0,0.25);
+  }
+  
+  button{
+    background-color: #27bdf8;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    transition: .2s;
+    width: 100%;
+  }
+  button:hover{
+    background-color: #61d1fd;
+    transition: .2s;
+  }
+  

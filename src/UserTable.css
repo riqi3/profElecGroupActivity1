@@ -1,0 +1,50 @@
+/*================TABLE DESIGN===================*/
+
+#user-title {
+    text-align: center;
+}
+
+.table-container {
+    background-color: #fff;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 50px;
+    border-radius: 10px;
+    width: fit-content;
+    height: auto;
+    box-shadow: 2px 12px 20px -7px rgba(0, 0, 0, 0.75);
+}
+
+
+/*==============HEADER DESIGN==================*/
+
+.header-menu {
+
+    position: relative;
+    color: #000;
+    text-align:end;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 100%;
+    border-radius: 10px;
+    transition: .3s;
+    box-shadow: 0px 4px 9px 0px rgba(0,0,0,0.25);
+    display:inline-block;
+    margin-bottom: 5em;
+  }
+  
+  #logout {
+    background-color: #27bdf8;
+    transition: .2s;
+    margin-left:5em!important;
+    margin-right:5em!important;
+    width: fit-content;
+  }
+  
+  #logout a {
+    color: white;
+    text-decoration: inherit;
+    transition: .2s;
+  }
+  
