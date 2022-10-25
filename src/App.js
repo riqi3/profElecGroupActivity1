@@ -185,7 +185,7 @@ const Project = () => {
 								<label htmlFor="income">Enter Password (cityslicka)<label className="asterisk"> *</label></label>
 							</div>
 							<input
-								placeholder="**********"
+								placeholder="*********"
 								type="password"
 								onChange={onChange}
 								data-testid="password"
